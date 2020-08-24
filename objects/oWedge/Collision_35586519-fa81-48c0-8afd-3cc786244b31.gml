@@ -1,5 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
+
+		
+
 if(direction = 0){
 	if(oPlayer.direction = 270){
 	with(oPlayer){
